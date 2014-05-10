@@ -1,7 +1,8 @@
 csmath(2013-2014) - taught by zhx 
-http://www.cad.zju.edu.cn/home/zhx/csmath/doku.php?id=2014
 
 ======
+http://www.cad.zju.edu.cn/home/zhx/csmath/doku.php?id=2014
+
 
 Homework 1: Curve Fitting
 
