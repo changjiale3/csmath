@@ -12,3 +12,4 @@ Homework 3: Mixture of Gaussians & EM Algo.
 
 Homework 4: Levenberg-Marquardt algorithm
 
+Homework 5: SVM & QP
